@@ -1,0 +1,10 @@
+streamlit
+folium
+pandas
+requests
+polyline
+groq
+supabase
+streamlit-folium
+
+streamlit-geolocation

@@ -1,0 +1,23 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Backup files
+*.backup*
+app.py.backup*
+
+# Old development scripts
+RoadPulse_AI_*.py
+
+# Raw location source file (database is retained)
+data/IN.txt
+
+# Temporary output files
+outputs/*
